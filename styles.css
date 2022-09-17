@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  border-style: solid;
+  border-color: green;
+  border-width: 10px;
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  left: 250px;
+  border-style: solid;
+  border-color: red;
+  border-width: 10px;
+  
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 10px;
+}
